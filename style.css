@@ -3,7 +3,7 @@ h1 {
     text-align:center;
 }
 
-li { 
+.mylist { 
     font-family:times;
     text-align:center;
 }
@@ -13,7 +13,4 @@ body {
 }    
 #mybutton {
     font-family: fantasy;
-}
-.mylist {
-    
 }
